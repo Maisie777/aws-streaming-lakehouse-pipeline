@@ -1,0 +1,15 @@
+.
+├── .gitignore
+├── docs
+│   └── README.md
+├── notebooks
+│   └── databricks_demo.ipynb
+├── scripts
+│   ├── data_producer.py
+│   └── glue_etl_job.py
+└── terraform
+    ├── main.tf
+    └── variables.tf
+
+4 directories, 7 files
+
